@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1493879931 source:/home/bmc/codeblocks_space/Complex/Complex.cpp
+	<iostream>
+	"Complex.h"
+
+1493879461 /home/bmc/codeblocks_space/Complex/Complex.h
+
+1493879361 source:/home/bmc/codeblocks_space/Complex/TestComplex.cpp
+	"Complex.h"
+	<iostream>
+
