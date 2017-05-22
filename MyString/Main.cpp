@@ -12,7 +12,16 @@ using namespace std;
 
 int main()
 {
-	MyString Str1="Hello MyString";
+	MyString Str1="HelloMyString";
+	MyString Str2("IamStr2");
+	MyString Str3=Str2;
+
+	if(Str2 == Str1)
+	{
+		cout<<"is =="<<endl;
+	}else{
+		cout<<"is not =="<<endl;
+	}
 
 //	cout << Str1 <<endl;
 
